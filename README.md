@@ -28,9 +28,9 @@
 
 ## :rocket: Skills
 
-- Backend-Frontend Development: Node.js, React.js, Javascript, Python, HTML, CSS, SQL
+- Backend-Frontend Development: Node.js <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />, React.js <img src="{BadgeURLHere}" />, Javascript <img src="{BadgeURLHere}" />, Python <img src="{BadgeURLHere}" />, HTML <img src="{BadgeURLHere}" />, CSS <img src="{BadgeURLHere}" />, SQL <img src="{BadgeURLHere}" />
 - Databases: MongoDB, MySQL, PostgreSQL, AWS S3
-- Frameworks: Express.js, Socket.io, Nest.js
+- Frameworks-Libraries: Express.js, Socket.io, Nest.js, NPM
 - Version Control: Git, GitHub
 - Cloud Platforms: Aamazon Web Services-AWS, Google Colabs
 - Development Platforms: Postman API, Visual Studio Code-VSCode, Pycharm, Jupyter Notebook
