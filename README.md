@@ -28,9 +28,9 @@
 
 ## :rocket: Skills
 
-- Backend-Frontend Development: Node.js <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />, React.js <img src="{BadgeURLHere}" />, Javascript <img src="{BadgeURLHere}" />, Python <img src="{BadgeURLHere}" />, HTML <img src="{BadgeURLHere}" />, CSS <img src="{BadgeURLHere}" />, SQL <img src="{BadgeURLHere}" />
+- Backend-Frontend Development:<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />, React.js <img src="{BadgeURLHere}" />, Javascript <img src="{BadgeURLHere}" />, Python <img src="{BadgeURLHere}" />, HTML <img src="{BadgeURLHere}" />, CSS <img src="{BadgeURLHere}" />, SQL <img src="{BadgeURLHere}" />
 - Databases: MongoDB, MySQL, PostgreSQL, AWS S3
-- Frameworks-Libraries: Express.js, Socket.io, Nest.js, NPM
+- Frameworks-Libraries: Express.js, Socket.io, <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />, NPM <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 - Version Control: Git, GitHub
 - Cloud Platforms: Aamazon Web Services-AWS, Google Colabs
 - Development Platforms: Postman API, Visual Studio Code-VSCode, Pycharm, Jupyter Notebook
