@@ -1,16 +1,43 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.gifer.com/1fZB.gif" width="100"/>
 
-<!--
-**venkata-naveen-varma/venkata-naveen-varma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/vv-naveen-varma/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://medium.com/@naveen-varma">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+    </a>
+  </div>
+  
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+# :man_technologist: About Me
+
+- :telescope: I am a Full Stack Developer exploring various technologies and frameworks.
+- :seedling: I am passionate about open-source contributions and actively contribute to the development community.
+- :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
+- :mailbox: Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.
+
+---
+
+## :rocket: Skills
+
+- Backend-Frontend Development: Node.js, React.js, Javascript, Python, HTML, CSS, SQL
+- Databases: MongoDB, MySQL, PostgreSQL, AWS S3
+- Frameworks: Express.js, Socket.io, Nest.js
+- Version Control: Git, GitHub
+- Cloud Platforms: Aamazon Web Services-AWS, Google Colabs
+- Development Platforms: Postman API, Visual Studio Code-VSCode, Pycharm, Jupyter Notebook
+- AI: Machine Learning, CNN, OpenAI-Chatbot
+
+
+---
+
