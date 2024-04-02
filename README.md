@@ -20,7 +20,7 @@
 # :man_technologist: About Me
 
 - :telescope: I am a Full Stack Developer exploring various technologies and frameworks.
-- :seedling: I am passionate about open-source contributions and actively contribute to the development community.
+- :seedling: Passionate about diving deep into the world of web development, seamlessly bridging frontend finesse with backend brilliance
 - :people_holding_hands: I am open to collaborating on Backend projects and constantly seeking opportunities to expand my skill set.
 - :mailbox: Feel free to contact me via LinkedIn if you want to connect or discuss any opportunities.
 
