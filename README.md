@@ -1,5 +1,4 @@
 <div id="header" align="center">
-  <img src="https://i.gifer.com/1fZB.gif" width="100"/>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/vv-naveen-varma/">
