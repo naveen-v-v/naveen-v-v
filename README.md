@@ -2,7 +2,6 @@
 
   <div id="badges">
     <a href="https://venkata-naveen-varma.github.io">
-      ![mylogo](https://github.com/user-attachments/assets/9d6be6c4-b0da-4790-87b6-9090303a4832)
       <img src="https://github.com/user-attachments/assets/9d6be6c4-b0da-4790-87b6-9090303a4832" alt="Portfolio"/>
     </a>
     <a href="https://www.linkedin.com/in/vv-naveen-varma/">
