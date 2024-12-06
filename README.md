@@ -7,8 +7,11 @@
     <a href="https://medium.com/@naveen-varma">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
+  </div>
+
+  <div id="logo">
     <a href="https://venkata-naveen-varma.github.io">
-      <img src="https://github.com/user-attachments/assets/9d6be6c4-b0da-4790-87b6-9090303a4832" alt="Portfolio"/>
+      <img src="https://github.com/user-attachments/assets/9d6be6c4-b0da-4790-87b6-9090303a4832" alt="logo"/>
     </a>
   </div>
   
