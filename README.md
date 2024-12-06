@@ -2,7 +2,7 @@
 
   <div id="logo">
     <a href="https://venkata-naveen-varma.github.io">
-      <img src="https://github.com/user-attachments/assets/9d6be6c4-b0da-4790-87b6-9090303a4832" alt="logo"/>
+      <img src="https://github.com/venkata-naveen-varma/venkata-naveen-varma/blob/main/mylogo.png?raw=true" alt="logo"/>
     </a>
   </div>
   
