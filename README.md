@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
   <div id="logo">
-    <a href="https://venkata-naveen-varma.github.io">
+    <a href="https://naveen-v-v.github.io">
       <img src="https://github.com/venkata-naveen-varma/venkata-naveen-varma/blob/main/mylogo.png?raw=true" alt="logo"/>
     </a>
   </div>
