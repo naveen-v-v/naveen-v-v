@@ -7,7 +7,7 @@
   </div>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/vv-naveen-varma/">
+    <a href="https://www.linkedin.com/in/naveen-v-v/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://medium.com/@naveen-varma">
