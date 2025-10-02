@@ -7,9 +7,9 @@
   </div>
   
   <div id="badges">
-    <a href="https://www.linkedin.com/in/naveen-v-v/">
+    <!-- <a href="https://www.linkedin.com/in/naveen-v-v/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    </a> -->
     <a href="https://medium.com/@naveen-v-v">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
